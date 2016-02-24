@@ -17,3 +17,13 @@ electron: desktop app builder
 protractor e2e test
 sonar: code quality
 jenkins: Continuous integration
+
+## Instalation
+
+`npm install -g gulp`
+
+`npm install -g jspm`
+
+`npm install`
+
+`jspm install -y`
